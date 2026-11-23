@@ -81,6 +81,13 @@ I'm a Computer Science Engineering graduate from **GITAM Deemed to be University
 
 - Participated in software development internship activities.
 - Worked on programming assignments and practical development tasks.
+- ## 🚀 Live Projects
+
+| Project | Technologies | Live Demo | Source Code |
+|---|---|---|---|
+| Music Band Landing Page | HTML, CSS | [View Live](https://koushiknaidu07.github.io/CODSOFT1/) | [GitHub](https://github.com/koushiknaidu07/CODSOFT1) |
+| Personal Portfolio Website | HTML, CSS, JavaScript | [View Live](https://koushiknaidu07.github.io/CODSOFT2/) | [GitHub](https://github.com/koushiknaidu07/CODSOFT2) |
+| Calculator Web Application | HTML, CSS, JavaScript | [View Live](https://koushiknaidu07.github.io/CODSOFT3/) | [GitHub](https://github.com/koushiknaidu07/CODSOFT3) |
 
 ---
 
