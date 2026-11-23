@@ -1,59 +1,59 @@
-Hi, I'm Koushik Gurram 👋
-Software Developer | Computer Science Engineering Graduate
 
-I'm a Computer Science Engineering graduate from (GITAM Deemed to be University), passionate about software development, technology, and solving real-world problems.
+<h1 align="center">Hi 👋, I'm Koushik Gurram</h1>
 
-I enjoy exploring different technologies, developing applications, and continuously improving my technical skills.
+<h3 align="center">Software Developer | Computer Science Engineering Graduate</h3>
 
-- 🎓 Computer Science Engineering Graduate (2025)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Java+%7C+Python+%7C+C%2B%2B;Full+Stack+Development;Problem+Solving;Building+Real-World+Projects" alt="Typing introduction" />
+</p>
+
+## 👨‍💻 About Me
+
+- 🎓 CSE Graduate from GITAM Deemed to be University
 - 💻 Interested in Software Engineering and Full Stack Development
-- 🌱 Currently strengthening my programming and development skills
-- 🔍 Interested in building practical, real-world solutions
-- 🤝 Open to learning, collaboration, internships and job opportunities
---------------------------------------------------------------------------------------------------------
-🛠️ Technical Skills
+- 🌱 Continuously learning new technologies
+- 🚀 Passionate about building practical applications
+- 🤝 Open to collaboration and career opportunities
 
-Programming Languages
-- Java
-- Python
-- C/C++
-Web Technologies
-- HTML5
-- CSS3
-- JavaScript
-Database
-- SQL
-Tools
-- Git
-- GitHub
-------------------------------------------------------------------------------------------------------
- 🚀 Featured Projects
+## 🛠️ Technologies & Tools
 
-1. Intelligent Edge Load Migration using SDN-IIoT for Smart Healthcare
-- Explored machine learning techniques for predicting potential sensor failures.
-- Worked with Python and the Random Forest algorithm.
-- Studied SDN simulation concepts in a smart healthcare environment.
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,html,css,js,mysql,git,github" />
+</p>
 
-2. Seamless TCP Communication with QTcpSocket in Qt Software
-- Developed a client-server communication application using C++ and Qt.
-- Explored TCP/IP communication over a local network.
-- Implemented message exchange and file transfer functionality.
-------------------------------------------------------------------------------------------------------
- 💼 Experience
+## 🚀 Featured Projects
 
-- DRDO Internship – Software Development using C++ and Qt.
-- CodSoft Internship – Software Development Projects.
+### 1. Intelligent Edge Load Migration using SDN-IIoT
+- Python and Random Forest-based sensor failure prediction.
+- Explored SDN simulation concepts in smart healthcare.
 
- 📚 Currently Learning
-- Data Structures and Algorithms
-- Advanced Java and Python
-- Full Stack Web Development
-- Database Management
-- Software Engineering Best Practices
----------------------------------------------------------------------------------------------------------
- 📫 Connect With Me
+### 2. Seamless TCP Communication using QTcpSocket
+- Developed a client-server application using C++ and Qt.
+- Implemented TCP/IP message exchange and file transfer.
 
-- GitHub: [@koushiknaidu07](https://github.com/koushiknaidu07)
-- LinkedIn: [(https://in.linkedin.com/in/koushikgurram)]
+## 📊 GitHub Statistics
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=koushiknaidu07&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koushiknaidu07&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=koushiknaidu07&theme=tokyonight&hide_border=true" />
+</p>
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/koushiknaidu07">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
 ⭐ Always learning, building, and improving.
