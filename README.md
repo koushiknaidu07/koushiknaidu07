@@ -91,22 +91,6 @@ I'm a Computer Science Engineering graduate from **GITAM Deemed to be University
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=koushiknaidu07&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koushiknaidu07&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=koushiknaidu07&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 ## 📚 Currently Learning
 
